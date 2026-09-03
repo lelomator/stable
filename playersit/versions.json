@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "project": "playersit",
+  "versions": {
+    "1.2.0": {
+      "status": "supported"
+    },
+    "1.1.0": {
+      "status": "deprecated",
+      "message": "<gold><bold>[PlayerSit]</bold></gold> <red>Version 1.1.0 is deprecated.</red><newline><yellow>Please update to the latest version to continue receiving fixes and support.</yellow><newline><click:open_url:'https://modrinth.com/plugin/sitting'><hover:show_text:'<gray>Click to open the PlayerSit Modrinth page</gray>'><green><underlined>Download the latest version on Modrinth</underlined></green></hover></click>",
+      "consoleMessage": "PlayerSit 1.1.0 is deprecated. Please update to the latest Version: https://modrinth.com/plugin/sitting"
+    },
+    "1.0.0": {
+      "status": "unsupported",
+      "message": "<gold><bold>[PlayerSit]</bold></gold> <red><bold>Version 1.0.0 is no longer supported.</bold></red><newline><yellow>Please update to the latest version to continue receiving fixes and support.</yellow><newline><click:open_url:'https://modrinth.com/plugin/sitting'><hover:show_text:'<gray>Click to open the PlayerSit Modrinth page</gray>'><green><underlined>Download the latest version on Modrinth</underlined></green></hover></click>",
+      "consoleMessage": "PlayerSit 1.0.0 is unsupported. Please update to the latest Version: https://modrinth.com/plugin/sitting"
+    },
+    "0.0.2": {
+      "status": "unsupported",
+      "message": "<gold><bold>[PlayerSit]</bold></gold> <red><bold>Version 0.0.2 is no longer supported.</bold></red><newline><yellow>Please update to the latest version to continue receiving fixes and support.</yellow><newline><click:open_url:'https://modrinth.com/plugin/sitting'><hover:show_text:'<gray>Click to open the PlayerSit Modrinth page</gray>'><green><underlined>Download the latest version on Modrinth</underlined></green></hover></click>",
+      "consoleMessage": "PlayerSit 0.0.2 is unsupported. Please update to the latest Version: https://modrinth.com/plugin/sitting"
+    },
+    "0.0.1": {
+      "status": "unsupported",
+      "message": "<gold><bold>[PlayerSit]</bold></gold> <red><bold>Version 0.0.1 is no longer supported.</bold></red><newline><yellow>Please update to the latest version to continue receiving fixes and support.</yellow><newline><click:open_url:'https://modrinth.com/plugin/sitting'><hover:show_text:'<gray>Click to open the PlayerSit Modrinth page</gray>'><green><underlined>Download the latest version on Modrinth</underlined></green></hover></click>",
+      "consoleMessage": "PlayerSit 0.0.1 is unsupported. Please update to the latest Version: https://modrinth.com/plugin/sitting"
+    }
+  }
+}
