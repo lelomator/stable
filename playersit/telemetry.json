@@ -1,5 +1,5 @@
 {
   "schemaVersion": 1,
   "project": "playersit",
-  "endpoint": "https://telemetry-mauve.vercel.app/"
+  "endpoint": "https://telemetry-mauve.vercel.app/v1/heartbeat"
 }
